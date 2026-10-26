@@ -1,0 +1,16 @@
+com.aguardatorio.app
+drawable ic_drop
+plurals interval_hours
+string activate_reminders
+string app_name
+string notification_permission_denied
+string pause_reminders
+string reminder_pills_description
+string reminder_pills_title
+string reminder_water_description
+string reminder_water_title
+string reminders_active
+string reminders_paused
+style AppTheme
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="interval_hours">
+        <item quantity="one">%1$d hora</item>
+        <item quantity="other">%1$d horas</item>
+    </plurals>
+    <string name="activate_reminders">ACTIVAR AVISOS</string>
+    <string name="app_name">Agua a tu ritmo</string>
+    <string name="notification_permission_denied">Activa las notificaciones para recibir avisos.</string>
+    <string name="pause_reminders">PAUSAR</string>
+    <string name="reminder_pills_description">Sigue la dosis indicada.</string>
+    <string name="reminder_pills_title">Pastillas</string>
+    <string name="reminder_water_description">Que el calor no te detenga.</string>
+    <string name="reminder_water_title">Toma agua</string>
+    <string name="reminders_active">Avisos activos</string>
+    <string name="reminders_paused">Avisos pausados</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#42D9B5</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#101511</item>
+        <item name="android:navigationBarColor">#101511</item>
+        <item name="android:statusBarColor">#101511</item>
+    </style>
+</resources>

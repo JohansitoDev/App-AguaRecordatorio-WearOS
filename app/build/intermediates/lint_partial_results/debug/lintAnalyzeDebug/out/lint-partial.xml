@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 9.1.1" type="partial_results">
+    <map id="NotificationPermission">
+        <entry
+            name="source"
+            boolean="true"/>
+    </map>
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.aguardatorio.app.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="drawable[ic_drop(U)],plurals[interval_hours(U)],string[app_name(U),reminder_water_title(U),reminder_water_description(U),reminder_pills_title(U),reminder_pills_description(U),notification_permission_denied(U),reminders_active(U),reminders_paused(U),activate_reminders(U),pause_reminders(U)],style[AppTheme(U)],xml[data_extraction_rules(U),backup_rules(U)];;;;"/>
+    </map>
+
+</incidents>

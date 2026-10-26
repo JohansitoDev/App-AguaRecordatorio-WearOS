@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aguardatorio.app-mergeDebugResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jmancebo\\Desktop\\AguaRecordatorio\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "12,10,-1,7,11,6,5,4,3,8,9",
+                        "startColumns": "4,4,-1,4,4,4,4,4,4,4,4",
+                        "startOffsets": "741,626,-1,396,689,315,255,171,111,503,564",
+                        "endLines": "15,10,-1,7,11,6,5,4,3,8,9",
+                        "endColumns": "14,61,-1,105,50,79,58,82,58,59,60",
+                        "endOffsets": "885,683,-1,497,735,390,309,249,165,558,620"
+                    },
+                    "to": {
+                        "startLines": "2,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,201,263,316,422,473,553,612,695,754,814",
+                        "endLines": "5,6,7,8,9,10,11,12,13,14,15",
+                        "endColumns": "14,61,52,105,50,79,58,82,58,59,60",
+                        "endOffsets": "196,258,311,417,468,548,607,690,749,809,870"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jmancebo\\Desktop\\AguaRecordatorio\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "875",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1381"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\jmancebo\\.gradle\\daemon\\9.3.1\\com.aguardatorio.app-mergeDebugResources-1:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jmancebo\\Desktop\\AguaRecordatorio\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "52",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jmancebo\\Desktop\\AguaRecordatorio\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "571"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "108",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "614"
+                    }
+                }
+            ]
+        }
+    ]
+}

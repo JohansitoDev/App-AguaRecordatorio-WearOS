@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agua a tu ritmo</string>
+    <string name="reminder_water_title">Toma agua</string>
+    <string name="reminder_water_description">Que el calor no te detenga.</string>
+    <string name="reminder_pills_title">Pastillas</string>
+    <string name="reminder_pills_description">Sigue la dosis indicada.</string>
+    <string name="notification_permission_denied">Activa las notificaciones para recibir avisos.</string>
+    <string name="reminders_active">Avisos activos</string>
+    <string name="reminders_paused">Avisos pausados</string>
+    <string name="activate_reminders">ACTIVAR AVISOS</string>
+    <string name="pause_reminders">PAUSAR</string>
+    <plurals name="interval_hours">
+        <item quantity="one">%1$d hora</item>
+        <item quantity="other">%1$d horas</item>
+    </plurals>
+</resources>

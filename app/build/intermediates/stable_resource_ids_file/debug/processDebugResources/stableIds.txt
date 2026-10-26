@@ -1,0 +1,15 @@
+com.aguardatorio.app:style/AppTheme = 0x7f040000
+com.aguardatorio.app:string/reminder_pills_description = 0x7f030004
+com.aguardatorio.app:string/reminder_water_title = 0x7f030007
+com.aguardatorio.app:string/reminders_active = 0x7f030008
+com.aguardatorio.app:string/reminder_water_description = 0x7f030006
+com.aguardatorio.app:string/reminder_pills_title = 0x7f030005
+com.aguardatorio.app:string/pause_reminders = 0x7f030003
+com.aguardatorio.app:string/notification_permission_denied = 0x7f030002
+com.aguardatorio.app:string/activate_reminders = 0x7f030000
+com.aguardatorio.app:string/reminders_paused = 0x7f030009
+com.aguardatorio.app:plurals/interval_hours = 0x7f020000
+com.aguardatorio.app:xml/backup_rules = 0x7f050000
+com.aguardatorio.app:string/app_name = 0x7f030001
+com.aguardatorio.app:xml/data_extraction_rules = 0x7f050001
+com.aguardatorio.app:drawable/ic_drop = 0x7f010000

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.aguardatorio.app-debug-3:/xml_data_extraction_rules.xml.flat",
+        "source": "com.aguardatorio.app-main-5:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.aguardatorio.app-debug-3:/xml_backup_rules.xml.flat",
+        "source": "com.aguardatorio.app-main-5:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jmancebo\\.gradle\\daemon\\9.3.1\\com.aguardatorio.app-debug-3:\\drawable_ic_drop.xml.flat",
+        "source": "C:\\Users\\jmancebo\\.gradle\\daemon\\9.3.1\\com.aguardatorio.app-main-5:\\drawable\\ic_drop.xml"
+    }
+]
